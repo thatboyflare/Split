@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — SPLIT</title>
+<style>
+  body { font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+         line-height: 1.65; color: #1c1c1e; max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 19px; margin-top: 32px; }
+  p, li { font-size: 15px; }
+  .meta { color: #6b6b70; font-size: 14px; }
+  .placeholder { background: #fff3c4; padding: 1px 6px; border-radius: 4px; font-weight: 600; }
+  a { color: #0a66c2; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy — SPLIT</h1>
+<p class="meta">Effective: October 2026</p>
+
+<p><span class="placeholder">[DEVELOPER NAME]</span> (“we”, “us”) operates the SPLIT mobile game (“the App”).
+This policy explains what information is collected when you play SPLIT and how it is used.
+SPLIT requires no account and no sign-in.</p>
+
+<h2>1. Information collected automatically</h2>
+<ul>
+  <li><strong>Advertising identifier (IDFA).</strong> If you grant permission via Apple’s App Tracking Transparency prompt, Google AdMob may collect your device’s advertising identifier to show relevant ads and measure ad performance. You can withdraw permission at any time in iOS Settings → Privacy &amp; Security → Tracking.</li>
+  <li><strong>Ad interaction data.</strong> Google collects information about ads displayed in the App (such as impressions) to operate, measure, and pay for advertising.</li>
+  <li><strong>Consent choices.</strong> Your privacy and consent selections (collected through Google’s consent form on first launch) are stored on your device.</li>
+  <li><strong>Diagnostics.</strong> If you opt in to sharing analytics with developers in iOS Settings, Apple may provide us with anonymized crash reports. These contain no personal information.</li>
+</ul>
+
+<h2>2. Information we do <em>not</em> collect</h2>
+<ul>
+  <li>We do not ask for your name, email address, or any account details.</li>
+  <li>Gameplay progress, coins, skins, and settings are stored only on your device.</li>
+  <li>In-app purchases are processed entirely by Apple through the App Store. We never see or store your payment details.</li>
+</ul>
+
+<h2>3. How we use information</h2>
+<ul>
+  <li>To operate the game and its features (levels, scores, saved progress).</li>
+  <li>To show advertising, which keeps the App free to play.</li>
+  <li>To process in-app purchases through Apple.</li>
+  <li>To diagnose crashes and improve stability.</li>
+</ul>
+
+<h2>4. Third-party services</h2>
+<p>The App uses the following third-party services, which process data under their own privacy policies:</p>
+<ul>
+  <li><strong>Google AdMob</strong> (advertising) — <a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+  <li><strong>Apple</strong> (App Store / StoreKit purchases, Game Center leaderboards &amp; achievements, crash reports) — <a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></li>
+</ul>
+
+<h2>5. Your choices</h2>
+<ul>
+  <li><strong>Tracking permission:</strong> iOS Settings → Privacy &amp; Security → Tracking — toggle SPLIT off to stop IDFA-based ad personalization.</li>
+  <li><strong>Reset your advertising identifier:</strong> iOS Settings → Privacy &amp; Security → Tracking → (your device’s advertising settings).</li>
+  <li><strong>Ad personalization by Google:</strong> manage it in <a href="https://myadcenter.google.com/">Google’s My Ad Center</a>.</li>
+  <li><strong>Remove ads entirely:</strong> the Remove Ads in-app purchase disables interstitial advertising in the App.</li>
+</ul>
+
+<h2>6. Data retention</h2>
+<p>Advertising data is retained according to Google’s policies. Information stored on your device (progress, settings, consent choices) remains until you delete the App.</p>
+
+<h2>7. Children’s privacy</h2>
+<p>SPLIT is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through the App, contact us and we will take steps to address it.</p>
+
+<h2>8. Your privacy rights</h2>
+<p>Depending on where you live (including the EU/UK under GDPR and California under the CCPA), you may have the right to request access to, correction of, or deletion of your personal information, and to opt out of certain data sharing. Much of the data described here is held by Google or Apple — you can exercise your rights directly with them via the policies linked above. For anything else, contact us at <span class="placeholder">[SUPPORT EMAIL]</span> and we will respond within a reasonable time.</p>
+
+<h2>9. Changes to this policy</h2>
+<p>We may update this policy from time to time. Material changes will be reflected by updating the effective date above. Continued use of the App after changes take effect constitutes acceptance of the updated policy.</p>
+
+<h2>10. Contact</h2>
+<p>Questions about this policy: <span class="placeholder">[SUPPORT EMAIL]</span></p>
+
+</body>
+</html>
